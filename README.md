@@ -15,6 +15,19 @@ A desktop virtual pet for wayland
 - ipc JSON-RPC via socket
 - systemd native
 - tiny brain with laya
-- written by hand becouse I need to keep my brain active
+- written by hand because I need to keep my brain active
 
+## Questions and answers
 
+- Why the brain in python?
+  Support for certain models
+- Why JSON-RPC?
+  I want to be able to build an e-ink
+- Why in rust?
+  I liked rust before it was vibe-coders land and they are not going to take it from me
+- Why the name Michi?
+  I like cats
+- Why the fuck so many linters rules and formatters?
+  I have TDAH and some level of obsessive behaviour
+- Why systemd?
+  I happen to like systemd unlike most of my peers

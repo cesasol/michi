@@ -1,0 +1,3 @@
+install:
+  echo "Hello there"
+

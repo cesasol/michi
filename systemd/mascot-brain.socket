@@ -1,0 +1,7 @@
+[Socket]
+ListenStream=%E/mascot/brain.sock
+SocketMode=0700
+
+[Install]
+WantedBy=sockets.target
+
